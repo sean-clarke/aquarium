@@ -1,0 +1,23 @@
+{
+  "name": "aquarium",
+  "version": "1.0.0",
+  "description": "Custom Lightweight LightDM Webkit2 Greeter Theme for Arch Linux made with Vue",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "keywords": [
+    "lightdm"
+  ],
+  "author": "Sean Clarke",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.1",
+    "@vue/cli-service": "^4.1.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

@@ -1,0 +1,5 @@
+[theme]
+name=Aquarium
+description=LightDM Webkit2 Greeter Theme
+engine=lightdm-webkit-greeter
+url=index.html
